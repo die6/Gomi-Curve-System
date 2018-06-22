@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Gomi Curve System",
+"dataUrl": "Gomi-Curve-Sytem.data.unityweb",
+"asmCodeUrl": "Gomi-Curve-Sytem.asm.code.unityweb",
+"asmMemoryUrl": "Gomi-Curve-Sytem.asm.memory.unityweb",
+"asmFrameworkUrl": "Gomi-Curve-Sytem.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
